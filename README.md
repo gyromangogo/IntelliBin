@@ -5,7 +5,6 @@ Additionally you can add one more Ultrasonic at the front of the bin, and attach
 Hardware Components required:
 - Small Dustbin
 - ESP8266 NodeMCU/ Arduino Board and ESP8266 Module
-- Jumper wires (M-F, F-F, M-M)
 - One Ultrasonic (HC-SR04) [ two if you want to automate the Lid]
 - Servo Motor (MG-996R) [optional, only to automate the lid]
 - Moisture sensor (FC-28)
